@@ -1,0 +1,9 @@
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.exe.config
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.exe
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.pdb
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.csprojResolveAssemblyReference.cache
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.MainInterface.resources
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.Properties.Resources.resources
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.csproj.GenerateResource.Cache
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.exe
+c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.pdb
