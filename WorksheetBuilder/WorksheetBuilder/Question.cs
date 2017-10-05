@@ -8,46 +8,15 @@ namespace WorksheetBuilder
 {
     class Question
     {
-        private string _questionText;
+        #region Properties
+        public string QuestionText { get; set; }
+        public int QuestionLevel { get; set; }
+        public string QuestionType { get; set; }
+        public OptionList Options { get; set; }
+        public bool PhotoRequired { get; set; }
+        #endregion
 
-        public string QuestionText
-        {
-            get { return _questionText; }
-            set { _questionText = value; }
-        }
-
-        private int _questionLevel;
-
-        public int QuestionLevel
-        {
-            get { return _questionLevel; }
-            set { _questionLevel = value; }
-        }
-
-        private string _questionType;
-
-        public string QuestionType
-        {
-            get { return _questionType; }
-            set { _questionType = value; }
-        }
-
-        private OptionList _options;
-
-        public OptionList Options
-        {
-            get { return _options; }
-            set { _options = value; }
-        }
-
-        private bool _photoRequired;
-
-        public bool PhotoRequired
-        {
-            get { return _photoRequired; }
-            set { _photoRequired = value; }
-        }
-
+        #region Constructor
         public Question(string questionText, string questionType, int questionLevel, OptionList options, bool photoRequired)
         {
             this.QuestionText = questionText;
@@ -56,5 +25,6 @@ namespace WorksheetBuilder
             this.Options = options;
             this.PhotoRequired = photoRequired;
         }
+        #endregion
     }
 }

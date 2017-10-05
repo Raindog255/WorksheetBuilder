@@ -1,0 +1,8 @@
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\bin\Debug\WorksheetBuilder.CommonTests.dll
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\bin\Debug\WorksheetBuilder.CommonTests.pdb
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\bin\Debug\WorksheetBuilder.exe
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\bin\Debug\WorksheetBuilder.pdb
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\obj\Debug\WorksheetBuilder.CommonTests.csprojResolveAssemblyReference.cache
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\obj\Debug\WorksheetBuilder.CommonTests.dll
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder.CommonTests\obj\Debug\WorksheetBuilder.CommonTests.pdb

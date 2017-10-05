@@ -1,0 +1,9 @@
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.exe.config
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.exe
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.pdb
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.Common.csprojResolveAssemblyReference.cache
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.MainInterface.resources
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.Properties.Resources.resources
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.Common.csproj.GenerateResource.Cache
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.exe
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.pdb

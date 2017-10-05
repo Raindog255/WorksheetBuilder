@@ -7,29 +7,53 @@ using System.Threading.Tasks;
 
 namespace WorksheetBuilder
 {
-    class OptionList
+    public class OptionList
     {
-        private List<string> _optionList;
+        #region Properties
+        public List<string> Options { get; set; }
+        #endregion
 
-        public List<string> Options
-        {
-            get { return _optionList; }
-            set { _optionList = value; }
-        }
-
+        #region Constructor
         public OptionList(List<string> optionList)
         {
             Options = optionList;
         }
+        #endregion
 
-        public override string ToString()
-        {
-            return String.Join("|", Options.ToArray());
-        }
+        #region Methods
+        /// <summary>
+        /// Returns the options seperated by "|"
+        /// </summary>
+        public override string ToString() => String.Join("|", Options.ToArray());
 
-        public void Add(string str)
+        /// <summary>
+        /// Adds a value to the options list
+        /// </summary>
+        /// <param name="str">New string to add to the options list.</param>
+        public void Add(string str) => Options.Add(str);
+
+        /// <summary>
+        /// Appends an 'Other' option to the options list
+        /// </summary>
+        public void AddOther() => Options.Add("Other");
+
+        /// <summary>
+        /// Sorts the options alphabetically, with 'Other' always being the last option
+        /// </summary>
+        public void Sort()
         {
-            Options.Add(str);
+            bool otherPresent;
+
+            if (Options.Contains("Other"))
+            {
+                otherPresent = true;
+                Options.Remove("Other");
+            }
+            else otherPresent = false;
+
+            Options.Sort();
+            if (otherPresent == true) Options.Add("Other");
         }
+        #endregion
     }
 }

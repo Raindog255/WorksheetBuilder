@@ -7,3 +7,6 @@ c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\W
 c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.csproj.GenerateResource.Cache
 c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.exe
 c:\users\raind\onedrive\documents\visual studio 2015\Projects\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.pdb
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\bin\Debug\WorksheetBuilder.exe.config
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.exe
+C:\Users\raind\OneDrive\Documents\GitHub\WorksheetBuilder\WorksheetBuilder\WorksheetBuilder\obj\Debug\WorksheetBuilder.pdb
